@@ -10,11 +10,13 @@
     height: 400px;
   }
   #navbarScroll{
-    height: 300px;
+    height: 400px;
   }
   #privacy{
     visibility: hidden;
   }
+  
+  
 
 
 }
@@ -232,6 +234,7 @@ li{
   background-repeat:repeat-x;
   z-index: 100;
 }
+
 .card{
   background-color: rgba(0, 0, 0, 0);
   border: none;
@@ -306,7 +309,8 @@ a:active{
 }
 
 .dropdown-item:hover{
-  font-size: 18px;
+  font-size: 17px;
+  background-color: rgba(255, 255, 255, 0);
 }
 
 
